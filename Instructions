@@ -1,0 +1,5 @@
+--Choose either'X' or 'O'
+--Choose your position in the grid (1-9)
+--Try to form a straight line 
+--Else prevent the opponent from forming a straight line 
+--If not, you lose the game
